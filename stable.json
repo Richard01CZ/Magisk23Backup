@@ -1,12 +1,13 @@
+//link to this file https://raw.githubusercontent.com/Richard01CZ/Magisk23/main/stable.json?token=GHSAT0AAAAAABSGJO64MZEWHNPTQFLPXP52YRDJN7A
 {
   "magisk": {
     "version": "23.0",
     "versionCode": "23000",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/app-release.apk",
-    "note": "https://topjohnwu.github.io/Magisk/releases/23000.md"
+    "link": "https://raw.githubusercontent.com/Richard01CZ/Magisk23/main/app-release.apk?token=GHSAT0AAAAAABSGJO65K35FEQFFTC7P3YUIYRDJLOA",
+    "note": "https://raw.githubusercontent.com/Richard01CZ/Magisk23/main/23000.md?token=GHSAT0AAAAAABSGJO65GXNQWFTS4BEJVT7OYRDJMEQ"
   },
   "stub": {
     "versionCode": "21",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/stub-release.apk"
+    "link": "https://raw.githubusercontent.com/Richard01CZ/Magisk23/main/stub-release.apk?token=GHSAT0AAAAAABSGJO64LOWMGR7X35CGACDOYRDJMZA"
   }
 }
