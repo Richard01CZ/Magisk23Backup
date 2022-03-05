@@ -1,4 +1,3 @@
-//link to this file https://raw.githubusercontent.com/Richard01CZ/Magisk23/main/stable.json?token=GHSAT0AAAAAABSGJO64MZEWHNPTQFLPXP52YRDJN7A
 {
   "magisk": {
     "version": "23.0",
@@ -10,4 +9,5 @@
     "versionCode": "21",
     "link": "https://raw.githubusercontent.com/Richard01CZ/Magisk23/main/stub-release.apk?token=GHSAT0AAAAAABSGJO64LOWMGR7X35CGACDOYRDJMZA"
   }
+  "_comment": "Link to this file is https://raw.githubusercontent.com/Richard01CZ/Magisk23/main/stable.json?token=GHSAT0AAAAAABSGJO64MZEWHNPTQFLPXP52YRDJN7A"
 }
